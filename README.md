@@ -34,6 +34,8 @@ php artisan migrate
 
 # Sơ đồ khối
 
+![csdlweb](https://github.com/user-attachments/assets/3324842c-a8eb-49a6-b74b-636500c68378)
+
 
 ## ⚙Sơ đồ chức năng
 
@@ -468,3 +470,49 @@ class CategoryProduct extends Controller
 }
 
 ```
+
+
+# Một số hình ảnh chức năng chính
+## Xác thực người dùng
+Trang đăng nhập
+
+<img width="310" alt="Ảnh chụp Màn hình 2025-06-26 lúc 08 29 06" src="https://github.com/user-attachments/assets/6555d98e-fb01-4db4-b1ea-6d99711bb5c7" />
+Trang đăng ký
+
+<img width="311" alt="Ảnh chụp Màn hình 2025-06-26 lúc 08 30 30" src="https://github.com/user-attachments/assets/741f2727-f2a2-40ef-9a15-3574975c7f51" />
+## Trang chính
+
+<img width="1680" alt="Ảnh chụp Màn hình 2025-06-26 lúc 08 31 55" src="https://github.com/user-attachments/assets/c7ffbd98-8d69-493a-b548-ffbf4b0634f2" />
+## CRUD Products
+
+![image](https://github.com/user-attachments/assets/dbb6c939-2eae-48a8-aabe-61ffac57172c)
+Thêm sản phẩm
+
+![image](https://github.com/user-attachments/assets/6fd9acf0-48ff-404d-bf7b-e915782cd119)
+Xem , sửa và xóa :
+
+![image](https://github.com/user-attachments/assets/82518721-7981-4649-a296-48439209eef1)
+
+## CRUD Categories
+![image](https://github.com/user-attachments/assets/e118003d-65e9-45f3-8bbb-72aff9229f06)
+Thêm mới:
+
+![image](https://github.com/user-attachments/assets/78eca0c7-47c5-47dd-8309-60f3f9dbbce4)
+Sửa và xóa:
+
+![image](https://github.com/user-attachments/assets/f9ba8ad6-237a-40df-8a53-b48422ae1103)
+
+Xem sản phẩm:
+
+![image](https://github.com/user-attachments/assets/501993e1-31b4-4760-9a54-a3bb6d12520a)
+
+
+
+## CRUD Brands
+![image](https://github.com/user-attachments/assets/233373bc-1863-47db-acb3-1683ba1f70d8)
+Thêm mới:
+
+![image](https://github.com/user-attachments/assets/48d5584b-6f64-44dc-b944-3d857066f801)
+sửa và xóa:
+
+![image](https://github.com/user-attachments/assets/e721d089-e915-4dfa-a0c1-849fffc03f3f)
