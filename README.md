@@ -483,36 +483,42 @@ Trang đăng ký
 ## Trang chính
 
 <img width="1680" alt="Ảnh chụp Màn hình 2025-06-26 lúc 08 31 55" src="https://github.com/user-attachments/assets/c7ffbd98-8d69-493a-b548-ffbf4b0634f2" />
+
 ## CRUD Products
 
-![image](https://github.com/user-attachments/assets/dbb6c939-2eae-48a8-aabe-61ffac57172c)
+<img width="1680" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 40 33" src="https://github.com/user-attachments/assets/6bf5c6c2-11e0-46c3-bdba-c1c7ab56fb09" />
+
 Thêm sản phẩm
 
-![image](https://github.com/user-attachments/assets/6fd9acf0-48ff-404d-bf7b-e915782cd119)
+<img width="1680" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 37 52" src="https://github.com/user-attachments/assets/816b7c93-7d2d-48a9-a307-b30fda3a7f60" />
 Xem , sửa và xóa :
 
-![image](https://github.com/user-attachments/assets/82518721-7981-4649-a296-48439209eef1)
+<img width="1680" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 42 49" src="https://github.com/user-attachments/assets/1fbe4f0f-d9c4-457a-9b95-1e538a43e0cc" />
 
 ## CRUD Categories
-![image](https://github.com/user-attachments/assets/e118003d-65e9-45f3-8bbb-72aff9229f06)
+![image](https://github.com/user-attachments/assets/a9da1ca1-2c80-49f9-953e-e7f5103d0153)
 Thêm mới:
 
-![image](https://github.com/user-attachments/assets/78eca0c7-47c5-47dd-8309-60f3f9dbbce4)
+<img width="1680" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 37 52" src="https://github.com/user-attachments/assets/1911df86-b8fa-4d93-842a-25e0713489a9" />
+
 Sửa và xóa:
 
-![image](https://github.com/user-attachments/assets/f9ba8ad6-237a-40df-8a53-b48422ae1103)
+<img width="145" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 48 55" src="https://github.com/user-attachments/assets/df8af5b1-991b-49f0-9d98-57de9c5c4eda" />
 
 Xem sản phẩm:
 
-![image](https://github.com/user-attachments/assets/501993e1-31b4-4760-9a54-a3bb6d12520a)
+<img width="145" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 48 55" src="https://github.com/user-attachments/assets/41de62e6-d572-4867-b412-78b97769fb61" />
 
 
 
 ## CRUD Brands
-![image](https://github.com/user-attachments/assets/233373bc-1863-47db-acb3-1683ba1f70d8)
+
+<img width="1676" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 50 20" src="https://github.com/user-attachments/assets/f53db944-fce5-4700-8dc4-dd8b97088c80" />
+
 Thêm mới:
 
-![image](https://github.com/user-attachments/assets/48d5584b-6f64-44dc-b944-3d857066f801)
+<img width="1680" alt="Ảnh chụp Màn hình 2025-06-26 lúc 09 51 39" src="https://github.com/user-attachments/assets/cd4fb4c1-3349-4518-9a2f-91eceaaa3c73" />
+
 sửa và xóa:
 
 ![image](https://github.com/user-attachments/assets/e721d089-e915-4dfa-a0c1-849fffc03f3f)
