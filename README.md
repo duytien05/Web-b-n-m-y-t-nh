@@ -488,7 +488,7 @@ Cấu trúc chính của view
 ## Github link
 https://github.com/duytien05/Web-b-n-m-y-t-nh
 ## Github page
-
+https://duytien05.github.io/Web-b-n-m-y-t-nh/
 # Một số hình ảnh chức năng chính
 ## Xác thực người dùng
 Trang đăng nhập
