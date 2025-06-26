@@ -39,6 +39,7 @@ php artisan migrate
 
 ## ⚙Sơ đồ chức năng
 
+![image](https://github.com/user-attachments/assets/a1e54534-e86a-480e-a393-4f6dcd8583a7)
 
 
 ## 🧠Sơ đồ thuật toán
