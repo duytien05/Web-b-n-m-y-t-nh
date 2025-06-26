@@ -39,6 +39,8 @@ php artisan migrate
 
 ## ⚙Sơ đồ chức năng
 
+
+
 ## 🧠Sơ đồ thuật toán
 
 <Strong>AdminController: <Strong>![admincontroller](https://github.com/user-attachments/assets/bbd1fa7c-6037-4fa6-b404-8e95c7120f31)
@@ -470,7 +472,22 @@ class CategoryProduct extends Controller
 }
 
 ```
+## View
+Cấu trúc chính của view
 
+<img width="292" alt="Ảnh chụp Màn hình 2025-06-26 lúc 11 19 29" src="https://github.com/user-attachments/assets/9c8d0881-c9ec-447e-9f99-2f21402b5c51" />
+
+# Security Setup
+<strong>
+    Luôn sử dụng phiên bản mới nhất giúp ứng dụng được cải tiến hiệu năng và các tính năng mới nhất
+</strong>
+
+<img width="442" alt="Ảnh chụp Màn hình 2025-06-26 lúc 11 23 18" src="https://github.com/user-attachments/assets/55242082-b90e-4562-a9b0-27d675b4f4e3" />
+
+# Link
+## Github link
+https://github.com/duytien05/Web-b-n-m-y-t-nh
+## Github page
 
 # Một số hình ảnh chức năng chính
 ## Xác thực người dùng
